@@ -1,0 +1,9 @@
+Cálculo;ParteA;ParteB;Diferencia;Observaciones
+1729;9721;1279;8442;Iteración 1
+8442;8442;2448;5994;Iteración 2
+5994;9954;4599;5355;Iteración 3
+5355;5553;3555;1998;Iteración 4
+1998;9981;1899;8082;Iteración 5
+8082;8820;288;8532;Iteración 6
+8532;8532;2358;6174;Iteración 7
+8532;8532;2358;6174;Iteración 7, ¡¡¡KAPREKAR Encontrado!!!
